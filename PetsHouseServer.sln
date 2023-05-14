@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetsHouseServer", "PetsHouseServer\PetsHouseServer.csproj", "{2630F233-0EC0-4143-B371-AAE8995F13A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetsHouseServer", "PetsHouseServer\PetsHouseServer.csproj", "{2630F233-0EC0-4143-B371-AAE8995F13A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetsHouse.WebClient", "PetsHouse.WebClient\PetsHouse.WebClient.csproj", "{750399A4-64A3-464B-83B9-992CEDE3ECBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2630F233-0EC0-4143-B371-AAE8995F13A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2630F233-0EC0-4143-B371-AAE8995F13A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2630F233-0EC0-4143-B371-AAE8995F13A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750399A4-64A3-464B-83B9-992CEDE3ECBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750399A4-64A3-464B-83B9-992CEDE3ECBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750399A4-64A3-464B-83B9-992CEDE3ECBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750399A4-64A3-464B-83B9-992CEDE3ECBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
